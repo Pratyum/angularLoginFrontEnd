@@ -1,0 +1,18 @@
+{
+  "name": "angularloginfrontend",
+  "homepage": "https://github.com/Pratyum/angularLoginFrontEnd",
+  "authors": [
+    "pratyumjagannath <pratyum96@gmail.com>"
+  ],
+  "description": "Login page with angular",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
